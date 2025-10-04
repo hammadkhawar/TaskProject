@@ -1,0 +1,483 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TestProj\\code\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34C0FACD-F3D9-400C-8945-554DD6B0819A}|src\\Application\\Application.csproj|d:\\testproj\\code\\src\\application\\common\\models\\user\\userget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34C0FACD-F3D9-400C-8945-554DD6B0819A}|src\\Application\\Application.csproj|solutionrelative:src\\application\\common\\models\\user\\userget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C0FACD-F3D9-400C-8945-554DD6B0819A}|src\\Application\\Application.csproj|d:\\testproj\\code\\src\\application\\common\\models\\user\\applicationuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34C0FACD-F3D9-400C-8945-554DD6B0819A}|src\\Application\\Application.csproj|solutionrelative:src\\application\\common\\models\\user\\applicationuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4EE20C-F06A-4A1B-851F-C5577796941C}|src\\Web\\Web.csproj|d:\\testproj\\code\\src\\web\\web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4E4EE20C-F06A-4A1B-851F-C5577796941C}|src\\Web\\Web.csproj|solutionrelative:src\\web\\web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117DA02F-5274-4565-ACC6-DA9B6E568B09}|src\\Infrastructure\\Infrastructure.csproj|d:\\testproj\\code\\src\\infrastructure\\identity\\identityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{117DA02F-5274-4565-ACC6-DA9B6E568B09}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\identity\\identityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117DA02F-5274-4565-ACC6-DA9B6E568B09}|src\\Infrastructure\\Infrastructure.csproj|d:\\testproj\\code\\src\\infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{117DA02F-5274-4565-ACC6-DA9B6E568B09}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4EE20C-F06A-4A1B-851F-C5577796941C}|src\\Web\\Web.csproj|d:\\testproj\\code\\src\\web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4EE20C-F06A-4A1B-851F-C5577796941C}|src\\Web\\Web.csproj|solutionrelative:src\\web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117DA02F-5274-4565-ACC6-DA9B6E568B09}|src\\Infrastructure\\Infrastructure.csproj|d:\\testproj\\code\\src\\infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{117DA02F-5274-4565-ACC6-DA9B6E568B09}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C0FACD-F3D9-400C-8945-554DD6B0819A}|src\\Application\\Application.csproj|d:\\testproj\\code\\src\\application\\common\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34C0FACD-F3D9-400C-8945-554DD6B0819A}|src\\Application\\Application.csproj|solutionrelative:src\\application\\common\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4EE20C-F06A-4A1B-851F-C5577796941C}|src\\Web\\Web.csproj|d:\\testproj\\code\\src\\web\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4EE20C-F06A-4A1B-851F-C5577796941C}|src\\Web\\Web.csproj|solutionrelative:src\\web\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E89A3E-A631-4760-8D61-BD1EAB1C4E69}|src\\Domain\\Domain.csproj|d:\\testproj\\code\\src\\domain\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E89A3E-A631-4760-8D61-BD1EAB1C4E69}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C0FACD-F3D9-400C-8945-554DD6B0819A}|src\\Application\\Application.csproj|d:\\testproj\\code\\src\\application\\users\\commands\\createuser\\createuserforadminportalcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34C0FACD-F3D9-400C-8945-554DD6B0819A}|src\\Application\\Application.csproj|solutionrelative:src\\application\\users\\commands\\createuser\\createuserforadminportalcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117DA02F-5274-4565-ACC6-DA9B6E568B09}|src\\Infrastructure\\Infrastructure.csproj|d:\\testproj\\code\\src\\infrastructure\\identity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{117DA02F-5274-4565-ACC6-DA9B6E568B09}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\identity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C0FACD-F3D9-400C-8945-554DD6B0819A}|src\\Application\\Application.csproj|d:\\testproj\\code\\src\\application\\common\\interfaces\\iidentityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34C0FACD-F3D9-400C-8945-554DD6B0819A}|src\\Application\\Application.csproj|solutionrelative:src\\application\\common\\interfaces\\iidentityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4EE20C-F06A-4A1B-851F-C5577796941C}|src\\Web\\Web.csproj|d:\\testproj\\code\\src\\web\\endpoints\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4EE20C-F06A-4A1B-851F-C5577796941C}|src\\Web\\Web.csproj|solutionrelative:src\\web\\endpoints\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4EE20C-F06A-4A1B-851F-C5577796941C}|src\\Web\\Web.csproj|d:\\testproj\\code\\src\\web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4E4EE20C-F06A-4A1B-851F-C5577796941C}|src\\Web\\Web.csproj|solutionrelative:src\\web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C0FACD-F3D9-400C-8945-554DD6B0819A}|src\\Application\\Application.csproj|d:\\testproj\\code\\src\\application\\users\\queries\\getuserswithpagination\\getuserswithpaginationqueryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34C0FACD-F3D9-400C-8945-554DD6B0819A}|src\\Application\\Application.csproj|solutionrelative:src\\application\\users\\queries\\getuserswithpagination\\getuserswithpaginationqueryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C0FACD-F3D9-400C-8945-554DD6B0819A}|src\\Application\\Application.csproj|d:\\testproj\\code\\src\\application\\users\\queries\\getuserswithpagination\\getuserswithpaginationquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34C0FACD-F3D9-400C-8945-554DD6B0819A}|src\\Application\\Application.csproj|solutionrelative:src\\application\\users\\queries\\getuserswithpagination\\getuserswithpaginationquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C0FACD-F3D9-400C-8945-554DD6B0819A}|src\\Application\\Application.csproj|d:\\testproj\\code\\src\\application\\users\\commands\\updateuser\\updateusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34C0FACD-F3D9-400C-8945-554DD6B0819A}|src\\Application\\Application.csproj|solutionrelative:src\\application\\users\\commands\\updateuser\\updateusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C0FACD-F3D9-400C-8945-554DD6B0819A}|src\\Application\\Application.csproj|d:\\testproj\\code\\src\\application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34C0FACD-F3D9-400C-8945-554DD6B0819A}|src\\Application\\Application.csproj|solutionrelative:src\\application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C0FACD-F3D9-400C-8945-554DD6B0819A}|src\\Application\\Application.csproj|d:\\testproj\\code\\src\\application\\common\\models\\common\\paginatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34C0FACD-F3D9-400C-8945-554DD6B0819A}|src\\Application\\Application.csproj|solutionrelative:src\\application\\common\\models\\common\\paginatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117DA02F-5274-4565-ACC6-DA9B6E568B09}|src\\Infrastructure\\Infrastructure.csproj|d:\\testproj\\code\\src\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{117DA02F-5274-4565-ACC6-DA9B6E568B09}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C0FACD-F3D9-400C-8945-554DD6B0819A}|src\\Application\\Application.csproj|d:\\testproj\\code\\src\\application\\common\\behaviours\\validationbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34C0FACD-F3D9-400C-8945-554DD6B0819A}|src\\Application\\Application.csproj|solutionrelative:src\\application\\common\\behaviours\\validationbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C0FACD-F3D9-400C-8945-554DD6B0819A}|src\\Application\\Application.csproj|d:\\testproj\\code\\src\\application\\common\\behaviours\\unhandledexceptionbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34C0FACD-F3D9-400C-8945-554DD6B0819A}|src\\Application\\Application.csproj|solutionrelative:src\\application\\common\\behaviours\\unhandledexceptionbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E89A3E-A631-4760-8D61-BD1EAB1C4E69}|src\\Domain\\Domain.csproj|d:\\testproj\\code\\src\\domain\\common\\typeextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E89A3E-A631-4760-8D61-BD1EAB1C4E69}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\common\\typeextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C0FACD-F3D9-400C-8945-554DD6B0819A}|src\\Application\\Application.csproj|d:\\testproj\\code\\src\\application\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34C0FACD-F3D9-400C-8945-554DD6B0819A}|src\\Application\\Application.csproj|solutionrelative:src\\application\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117DA02F-5274-4565-ACC6-DA9B6E568B09}|src\\Infrastructure\\Infrastructure.csproj|d:\\testproj\\code\\src\\infrastructure\\identity\\identityresultextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{117DA02F-5274-4565-ACC6-DA9B6E568B09}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\identity\\identityresultextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C0FACD-F3D9-400C-8945-554DD6B0819A}|src\\Application\\Application.csproj|d:\\testproj\\code\\src\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{34C0FACD-F3D9-400C-8945-554DD6B0819A}|src\\Application\\Application.csproj|solutionrelative:src\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserGet.cs",
+              "DocumentMoniker": "D:\\TestProj\\code\\src\\Application\\Common\\Models\\User\\UserGet.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Common\\Models\\User\\UserGet.cs",
+              "ToolTip": "D:\\TestProj\\code\\src\\Application\\Common\\Models\\User\\UserGet.cs",
+              "RelativeToolTip": "src\\Application\\Common\\Models\\User\\UserGet.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAzwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T15:15:43.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web",
+              "DocumentMoniker": "D:\\TestProj\\code\\src\\Web\\Web.csproj",
+              "RelativeDocumentMoniker": "src\\Web\\Web.csproj",
+              "ToolTip": "D:\\TestProj\\code\\src\\Web\\Web.csproj",
+              "RelativeToolTip": "src\\Web\\Web.csproj",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-02T15:13:50.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\TestProj\\code\\src\\Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "D:\\TestProj\\code\\src\\Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "src\\Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAmwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T15:11:29.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\TestProj\\code\\src\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\TestProj\\code\\src\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T15:09:46.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\TestProj\\code\\src\\Application\\Common\\Interfaces\\IApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Common\\Interfaces\\IApplicationDbContext.cs",
+              "ToolTip": "D:\\TestProj\\code\\src\\Application\\Common\\Interfaces\\IApplicationDbContext.cs",
+              "RelativeToolTip": "src\\Application\\Common\\Interfaces\\IApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T15:09:31.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TestProj\\code\\src\\Web\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Web\\Program.cs",
+              "ToolTip": "D:\\TestProj\\code\\src\\Web\\Program.cs",
+              "RelativeToolTip": "src\\Web\\Program.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAmwDUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T15:03:14.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IdentityService.cs",
+              "DocumentMoniker": "D:\\TestProj\\code\\src\\Infrastructure\\Identity\\IdentityService.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Identity\\IdentityService.cs",
+              "ToolTip": "D:\\TestProj\\code\\src\\Infrastructure\\Identity\\IdentityService.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Identity\\IdentityService.cs",
+              "ViewState": "AgIAABwBAAAAAAAAAAAiwCYBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T14:45:08.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationUserDto.cs",
+              "DocumentMoniker": "D:\\TestProj\\code\\src\\Application\\Common\\Models\\User\\ApplicationUserDto.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Common\\Models\\User\\ApplicationUserDto.cs",
+              "ToolTip": "D:\\TestProj\\code\\src\\Application\\Common\\Models\\User\\ApplicationUserDto.cs",
+              "RelativeToolTip": "src\\Application\\Common\\Models\\User\\ApplicationUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T15:07:06.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\TestProj\\code\\src\\Web\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "src\\Web\\DependencyInjection.cs",
+              "ToolTip": "D:\\TestProj\\code\\src\\Web\\DependencyInjection.cs",
+              "RelativeToolTip": "src\\Web\\DependencyInjection.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T15:09:18.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "D:\\TestProj\\code\\src\\Domain\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\GlobalUsings.cs",
+              "ToolTip": "D:\\TestProj\\code\\src\\Domain\\GlobalUsings.cs",
+              "RelativeToolTip": "src\\Domain\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T15:09:10.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\TestProj\\code\\src\\Infrastructure\\Identity\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Identity\\ApplicationUser.cs",
+              "ToolTip": "D:\\TestProj\\code\\src\\Infrastructure\\Identity\\ApplicationUser.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Identity\\ApplicationUser.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T15:08:34.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\TestProj\\code\\src\\Web\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\Web\\appsettings.json",
+              "ToolTip": "D:\\TestProj\\code\\src\\Web\\appsettings.json",
+              "RelativeToolTip": "src\\Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-02T15:02:13.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Users.cs",
+              "DocumentMoniker": "D:\\TestProj\\code\\src\\Web\\Endpoints\\Users.cs",
+              "RelativeDocumentMoniker": "src\\Web\\Endpoints\\Users.cs",
+              "ToolTip": "D:\\TestProj\\code\\src\\Web\\Endpoints\\Users.cs",
+              "RelativeToolTip": "src\\Web\\Endpoints\\Users.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA4wA0AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T15:01:38.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateUserForAdminPortalCommand.cs",
+              "DocumentMoniker": "D:\\TestProj\\code\\src\\Application\\Users\\Commands\\CreateUser\\CreateUserForAdminPortalCommand.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Users\\Commands\\CreateUser\\CreateUserForAdminPortalCommand.cs",
+              "ToolTip": "D:\\TestProj\\code\\src\\Application\\Users\\Commands\\CreateUser\\CreateUserForAdminPortalCommand.cs",
+              "RelativeToolTip": "src\\Application\\Users\\Commands\\CreateUser\\CreateUserForAdminPortalCommand.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAmwFsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T14:57:35.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IIdentityService.cs",
+              "DocumentMoniker": "D:\\TestProj\\code\\src\\Application\\Common\\Interfaces\\IIdentityService.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Common\\Interfaces\\IIdentityService.cs",
+              "ToolTip": "D:\\TestProj\\code\\src\\Application\\Common\\Interfaces\\IIdentityService.cs",
+              "RelativeToolTip": "src\\Application\\Common\\Interfaces\\IIdentityService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIA8wBAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T14:43:48.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GetUsersWithPaginationQueryValidator.cs",
+              "DocumentMoniker": "D:\\TestProj\\code\\src\\Application\\Users\\Queries\\GetUsersWithPagination\\GetUsersWithPaginationQueryValidator.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Users\\Queries\\GetUsersWithPagination\\GetUsersWithPaginationQueryValidator.cs",
+              "ToolTip": "D:\\TestProj\\code\\src\\Application\\Users\\Queries\\GetUsersWithPagination\\GetUsersWithPaginationQueryValidator.cs",
+              "RelativeToolTip": "src\\Application\\Users\\Queries\\GetUsersWithPagination\\GetUsersWithPaginationQueryValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T15:00:16.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetUsersWithPaginationQuery.cs",
+              "DocumentMoniker": "D:\\TestProj\\code\\src\\Application\\Users\\Queries\\GetUsersWithPagination\\GetUsersWithPaginationQuery.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Users\\Queries\\GetUsersWithPagination\\GetUsersWithPaginationQuery.cs",
+              "ToolTip": "D:\\TestProj\\code\\src\\Application\\Users\\Queries\\GetUsersWithPagination\\GetUsersWithPaginationQuery.cs",
+              "RelativeToolTip": "src\\Application\\Users\\Queries\\GetUsersWithPagination\\GetUsersWithPaginationQuery.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAUwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T14:58:34.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UpdateUserCommand.cs",
+              "DocumentMoniker": "D:\\TestProj\\code\\src\\Application\\Users\\Commands\\UpdateUser\\UpdateUserCommand.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Users\\Commands\\UpdateUser\\UpdateUserCommand.cs",
+              "ToolTip": "D:\\TestProj\\code\\src\\Application\\Users\\Commands\\UpdateUser\\UpdateUserCommand.cs",
+              "RelativeToolTip": "src\\Application\\Users\\Commands\\UpdateUser\\UpdateUserCommand.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAUwIcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T14:58:09.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PaginatedList.cs",
+              "DocumentMoniker": "D:\\TestProj\\code\\src\\Application\\Common\\Models\\Common\\PaginatedList.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Common\\Models\\Common\\PaginatedList.cs",
+              "ToolTip": "D:\\TestProj\\code\\src\\Application\\Common\\Models\\Common\\PaginatedList.cs",
+              "RelativeToolTip": "src\\Application\\Common\\Models\\Common\\PaginatedList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T14:56:45.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Infrastructure",
+              "DocumentMoniker": "D:\\TestProj\\code\\src\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "D:\\TestProj\\code\\src\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "src\\Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-02T14:54:07.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ValidationBehaviour.cs",
+              "DocumentMoniker": "D:\\TestProj\\code\\src\\Application\\Common\\Behaviours\\ValidationBehaviour.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Common\\Behaviours\\ValidationBehaviour.cs",
+              "ToolTip": "D:\\TestProj\\code\\src\\Application\\Common\\Behaviours\\ValidationBehaviour.cs",
+              "RelativeToolTip": "src\\Application\\Common\\Behaviours\\ValidationBehaviour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T14:50:11.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UnhandledExceptionBehaviour.cs",
+              "DocumentMoniker": "D:\\TestProj\\code\\src\\Application\\Common\\Behaviours\\UnhandledExceptionBehaviour.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Common\\Behaviours\\UnhandledExceptionBehaviour.cs",
+              "ToolTip": "D:\\TestProj\\code\\src\\Application\\Common\\Behaviours\\UnhandledExceptionBehaviour.cs",
+              "RelativeToolTip": "src\\Application\\Common\\Behaviours\\UnhandledExceptionBehaviour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T14:50:06.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TypeExtensions.cs",
+              "DocumentMoniker": "D:\\TestProj\\code\\src\\Domain\\Common\\TypeExtensions.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Common\\TypeExtensions.cs",
+              "ToolTip": "D:\\TestProj\\code\\src\\Domain\\Common\\TypeExtensions.cs",
+              "RelativeToolTip": "src\\Domain\\Common\\TypeExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T14:49:04.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "D:\\TestProj\\code\\src\\Application\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "src\\Application\\GlobalUsings.cs",
+              "ToolTip": "D:\\TestProj\\code\\src\\Application\\GlobalUsings.cs",
+              "RelativeToolTip": "src\\Application\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T14:48:34.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\TestProj\\code\\src\\Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "src\\Application\\DependencyInjection.cs",
+              "ToolTip": "D:\\TestProj\\code\\src\\Application\\DependencyInjection.cs",
+              "RelativeToolTip": "src\\Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T14:46:04.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IdentityResultExtensions.cs",
+              "DocumentMoniker": "D:\\TestProj\\code\\src\\Infrastructure\\Identity\\IdentityResultExtensions.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Identity\\IdentityResultExtensions.cs",
+              "ToolTip": "D:\\TestProj\\code\\src\\Infrastructure\\Identity\\IdentityResultExtensions.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Identity\\IdentityResultExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T14:45:15.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Application",
+              "DocumentMoniker": "D:\\TestProj\\code\\src\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "src\\Application\\Application.csproj",
+              "ToolTip": "D:\\TestProj\\code\\src\\Application\\Application.csproj",
+              "RelativeToolTip": "src\\Application\\Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-02T14:35:23.821Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TestProj\\code\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4EE20C-F06A-4A1B-851F-C5577796941C}|src\\Web\\Web.csproj|d:\\testproj\\code\\src\\web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4EE20C-F06A-4A1B-851F-C5577796941C}|src\\Web\\Web.csproj|solutionrelative:src\\web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4EE20C-F06A-4A1B-851F-C5577796941C}|src\\Web\\Web.csproj|d:\\testproj\\code\\src\\web\\web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4E4EE20C-F06A-4A1B-851F-C5577796941C}|src\\Web\\Web.csproj|solutionrelative:src\\web\\web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4EE20C-F06A-4A1B-851F-C5577796941C}|src\\Web\\Web.csproj|d:\\testproj\\code\\src\\web\\infrastructure\\customexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4EE20C-F06A-4A1B-851F-C5577796941C}|src\\Web\\Web.csproj|solutionrelative:src\\web\\infrastructure\\customexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4EE20C-F06A-4A1B-851F-C5577796941C}|src\\Web\\Web.csproj|d:\\testproj\\code\\src\\web\\infrastructure\\iendpointroutebuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4EE20C-F06A-4A1B-851F-C5577796941C}|src\\Web\\Web.csproj|solutionrelative:src\\web\\infrastructure\\iendpointroutebuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117DA02F-5274-4565-ACC6-DA9B6E568B09}|src\\Infrastructure\\Infrastructure.csproj|d:\\testproj\\code\\src\\infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{117DA02F-5274-4565-ACC6-DA9B6E568B09}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4EE20C-F06A-4A1B-851F-C5577796941C}|src\\Web\\Web.csproj|d:\\testproj\\code\\src\\web\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4EE20C-F06A-4A1B-851F-C5577796941C}|src\\Web\\Web.csproj|solutionrelative:src\\web\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117DA02F-5274-4565-ACC6-DA9B6E568B09}|src\\Infrastructure\\Infrastructure.csproj|d:\\testproj\\code\\src\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{117DA02F-5274-4565-ACC6-DA9B6E568B09}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E89A3E-A631-4760-8D61-BD1EAB1C4E69}|src\\Domain\\Domain.csproj|d:\\testproj\\code\\src\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C7E89A3E-A631-4760-8D61-BD1EAB1C4E69}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TestProj\\code\\src\\Web\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Web\\Program.cs",
+              "ToolTip": "D:\\TestProj\\code\\src\\Web\\Program.cs",
+              "RelativeToolTip": "src\\Web\\Program.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAAIAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T15:23:33.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEndpointRouteBuilderExtensions.cs",
+              "DocumentMoniker": "D:\\TestProj\\code\\src\\Web\\Infrastructure\\IEndpointRouteBuilderExtensions.cs",
+              "RelativeDocumentMoniker": "src\\Web\\Infrastructure\\IEndpointRouteBuilderExtensions.cs",
+              "ToolTip": "D:\\TestProj\\code\\src\\Web\\Infrastructure\\IEndpointRouteBuilderExtensions.cs",
+              "RelativeToolTip": "src\\Web\\Infrastructure\\IEndpointRouteBuilderExtensions.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T15:20:57.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\TestProj\\code\\src\\Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "D:\\TestProj\\code\\src\\Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "src\\Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T15:20:10.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomExceptionHandler.cs",
+              "DocumentMoniker": "D:\\TestProj\\code\\src\\Web\\Infrastructure\\CustomExceptionHandler.cs",
+              "RelativeDocumentMoniker": "src\\Web\\Infrastructure\\CustomExceptionHandler.cs",
+              "ToolTip": "D:\\TestProj\\code\\src\\Web\\Infrastructure\\CustomExceptionHandler.cs",
+              "RelativeToolTip": "src\\Web\\Infrastructure\\CustomExceptionHandler.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAiwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T15:19:40.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "D:\\TestProj\\code\\src\\Web\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "src\\Web\\GlobalUsings.cs",
+              "ToolTip": "D:\\TestProj\\code\\src\\Web\\GlobalUsings.cs",
+              "RelativeToolTip": "src\\Web\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T15:18:51.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.csproj",
+              "DocumentMoniker": "D:\\TestProj\\code\\src\\Web\\Web.csproj",
+              "RelativeDocumentMoniker": "src\\Web\\Web.csproj",
+              "ToolTip": "D:\\TestProj\\code\\src\\Web\\Web.csproj",
+              "RelativeToolTip": "src\\Web\\Web.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-02T15:18:26.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Infrastructure.csproj",
+              "DocumentMoniker": "D:\\TestProj\\code\\src\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "D:\\TestProj\\code\\src\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "src\\Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-02T15:18:16.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "D:\\TestProj\\code\\src\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "src\\Domain\\Domain.csproj",
+              "ToolTip": "D:\\TestProj\\code\\src\\Domain\\Domain.csproj",
+              "RelativeToolTip": "src\\Domain\\Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-02T15:17:21.766Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
